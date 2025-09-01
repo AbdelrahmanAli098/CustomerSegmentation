@@ -7,7 +7,7 @@ This project demonstrates **Density-Based Spatial Clustering of Applications wit
 ---
 
 ## 📂 Dataset
-- The dataset contains customer-related features (e.g., spending habits, income).
+- The dataset Mall_Customers.csv.
 - Preprocessing steps include:
   - Handling missing values
   - Scaling data for better clustering performance
